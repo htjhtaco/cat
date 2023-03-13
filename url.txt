@@ -1,0 +1,30 @@
+猜拳
+https://teachablemachine.withgoogle.com/models/58J67KNkR/
+
+心情
+https://teachablemachine.withgoogle.com/models/plWWToerK/
+==============================================================
+口罩 mask
+https://teachablemachine.withgoogle.com/models/9_zjlxbq6/
+
+
+==============================================================
+htjh_taco
+
+https://flagtech.github.io/FM633A/lab08.html
+
+
+
+
+Adafruit IO 金鑰:
+aio_dwSR19N0cRrv3PMq5kRpGVtxLPAB
+
+
+Adafruit IO 帳號:
+htjh_taco
+
+Adafruit IO Feed:
+mood
+
+
+
